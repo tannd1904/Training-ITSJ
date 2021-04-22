@@ -1,5 +1,6 @@
 # Training-ITSJ
-Training ITSJ projects 22/04/2021
+22/04/2021
+Training ITSJ projects
 
 There are 3 projects to learn and pratice Java Basic
 
